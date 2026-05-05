@@ -1,23 +1,23 @@
-# ❤️ Heart Disease Analysis & Interactive Dashboard
+ Heart Disease Analysis & Interactive Dashboard
 
-## 🚀 Project Overview
+ Project Overview
 
 This project focuses on analyzing heart disease data to uncover critical patterns affecting patient survival.
 Using **Excel for data processing** and **Power BI for visualization**, the project transforms complex medical data into an intuitive and interactive dashboard.
 
-## 🎯 Problem Statement
+ Problem Statement
 
 Heart disease is one of the leading causes of death worldwide.
 The goal of this project is to identify **key medical and demographic factors** that influence patient survival and provide **data-driven insights**.
 
-## 🧠 What Makes This Project Unique
+ What Makes This Project Unique
 
 * Not just visualization — **real health insight extraction**
 * Focus on **survival analysis**, not just charts
 * Clean storytelling through dashboard design
 * Beginner-friendly but **interview-ready project**
 
-## 📂 Dataset Information
+ Dataset Information
 
 The dataset includes important patient-level features such as:
 
@@ -58,20 +58,20 @@ The dataset includes important patient-level features such as:
 * 👨‍⚕️ Gender-Based Insights
 * ⏳ Time-Based Patient Tracking
 
-## 🔍 Key Insights
+##  Key Insights
 
 * ⚠️ Low ejection fraction = higher mortality risk
 * ⚠️ Diabetes & high BP significantly increase risk
 * ⚠️ Kidney-related indicators strongly affect survival
 * ⚠️ Older patients show higher vulnerability
 
-## 🛠 Tools Used
+##  Tools Used
 
 * 📊 Microsoft Excel
 * 📈 Power BI
 
 
-## 💼 Use Case
+##  Use Case
 
 This project can help:
 
@@ -79,12 +79,12 @@ This project can help:
 * Data analysts practice real-world datasets
 * Recruiters evaluate analytical & visualization skills
 
-## 🧑‍💻 About Me
+##  About Me
 
 I am a passionate **Data Analyst** with skills in Excel, Power BI, and data storytelling.
 This project reflects my ability to transform raw data into actionable insights.
 
-## ⭐ Final Thoughts
+##  Final Thoughts
 
 This project is not just about data — it's about understanding patterns that can potentially save lives.
 
